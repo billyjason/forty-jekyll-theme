@@ -1,17 +1,17 @@
 # site settings
 title: Billy Blog
-subtitle: Billy Byiringiro
+subtitle: Tech
 email: billybyiringiro@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Learn more about new tech and new ideas.
 baseurl: "/billybyiringiro" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Billy
 street_address: St Johns Hills 
 city: Edinburgh
 state: Scotland
-zip_code: 55555
+zip_code: EH8 9TS
 country: United Kingdom
-phone: 7413710124
+phone: (+44) (0) 7413710124
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
