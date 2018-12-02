@@ -54,5 +54,5 @@ nav-menu: true
 </div>
 
 <hr class="major" />
-<iframe width="420" height="345" src="https://youtu.be/v8cuZL6tEbk">
+<iframe width="420" height="345" src="https://www.youtube.com/watch?v=v8cuZL6tEbk">
 </iframe>
