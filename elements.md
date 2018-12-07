@@ -19,8 +19,9 @@ nav-menu: true
 <p></p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Programme recommendation System</h3>
+		<h3>Programme recommendation Engine</h3>
 		<p> YouView TV ltd programme recommendation prototype I developed over the summer of 2018</p>
+		<p> For every programme it generates programmes that are similar and recommended, and other metatadata related to it such as cast, crew and genres</p>
 		<img class="mySlides" src="assets/img/2.png">
 		<img class="mySlides" src="assets/img/3.png">
 		<img class="mySlides" src="assets/img/4.png">
