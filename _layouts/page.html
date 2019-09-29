@@ -10,7 +10,7 @@
 
 <body>
 
-    {% include header.html %} {% if date %}<p>{{date }}</p>{% endif %} {{ content }} {% include footer.html %}
+    {% include header.html %} <p>{{page.date }}</p> {{ content }} {% include footer.html %}
 
 </body>
 
