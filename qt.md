@@ -16,7 +16,8 @@ Although quantum computing brings threats, abandoning its development is not a c
  Clearly, due to the Achilles’ heels in our current cybersecurity, there is no guarantee that the contemporary functioning systems will withstand the imminent quantum computing technology that is yet to take over the computer realm. This pose perils to commonly used cryptographic tools, especially ones that use public-key encryption algorithms, and also to the people whose careers in cybersecurity who are going to start over learning new paradigm of computation, which, in turn, will give power to harmful hackers due to the absence of enough experienced experts to thwarts them. However, we should not be bounded by fear; rather we should start investing in Post-Quantum Cryptography projects and be aware of the flaws that are in our system and start looking for solutions. It is all in our hand to choose what is right for us.
 
 
-    Works Cited
+*** Works Cited ***
+
 Moskowitz, C. (2016, October 5). How Quantum Computing Could Change Cybersecurity. Retrieved from ScientificAmerican:https://www.scientificamerican.com/article/how-quantum-computing-could-change-cybersecurity-forever-video/
 Navarrete, D. (2017, January 24). Quantum Computers and the Change in Cybersecurity. Retrieved from Panda Media Center: http://www.pandasecurity.com/mediacenter/security/quantum-computers-change-cybersecurity/
 NEWMAN, L. (2017, January 27). Quantum Computers Versus Hackers, Round One. Fight! Retrieved from Wired: https://www.wired.com/2017/01/quantum-computers-versus-hackers-round-one-fight/
@@ -24,7 +25,8 @@ Robinson, D. (2016, September 6). Quantum Computing: A New Threat to Cybersecuri
  Mosca, M. (2015, October 2). Cybersecurity in an era with:quantum computers: will we be ready? QCrypt 2015. Tokyo.
 
 
-	Annotated bibliography
+*** Annotated bibliography ***
+
 Mosca, M. (2016, January 3). A quantum of prevention for our cyber-security. Retrieved from Global Risk Institute: http://globalriskinstitute.org/publications/quantum-computing-cybersecurity/
 In the article, Michele Mosca talks about issues in our current cyber security and the prospect threat of quantum computing to the cybersecurity system. He also describes how many companies such as of China and Canada are investing in this field to be ready to confront the problems that might arise, but also to bring this technology into use because of its benefits. He concludes by saying that the quantum computing is not a mere a threat, but it acts as a landmark that will allow us to pinpoint loopholes in our cryptographic tools so that we can start to build ones that can stand quantum computing threats.
 
