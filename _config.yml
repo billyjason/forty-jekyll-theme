@@ -1,12 +1,11 @@
 # site settings
 title: Billy Blog
 subtitle: Tech
-email: billy.byiringiro@gmail.com
 description: Learn more about new tech and new ideas.
 baseurl: "/billybyiringiro" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Billy
-city: Edinburgh
+city: Oxford
 state: Scotland
 country: United Kingdom
 
